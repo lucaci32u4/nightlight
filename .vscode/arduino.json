@@ -1,6 +1,6 @@
 {
-    "sketch": "vnight.ino",
+    "sketch": "nightlight.ino",
     "board": "arduino:avr:nano",
     "configuration": "cpu=atmega328old",
-    "port": "/dev/ttyS0"
+    "port": "/dev/ttyUSB0"
 }
